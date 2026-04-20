@@ -18,8 +18,9 @@ const App = () => {
       <FlatCards/>
       <ElevatedCards/>
       <FancyCard/>
-      <ActionCard/>
       <ContactList/>
+      <ActionCard/>
+ 
     </View>
     </ScrollView>
     </SafeAreaView>
